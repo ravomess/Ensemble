@@ -1,0 +1,8 @@
+{
+     "name": "ensemble",
+     "version": "0.7.2",
+     "description": "Multi-model AI orchestrator: relay a prompt across Claude, ChatGPT, Gemini, Grok, DeepSeek, Perplexity, Groq and Mistral using your existing browser sessions. Each model builds on the answer so far. No API keys required. Requires the Claude in Chrome extension for non-Claude models.",
+     "author": { "name": "Rachi" },
+     "license": "MIT",
+     "keywords": ["ai", "orchestration", "multi-model", "ensemble", "browser-automation", "claude", "gemini", "chatgpt"]
+   }
