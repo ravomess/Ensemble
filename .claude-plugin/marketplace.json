@@ -1,0 +1,11 @@
+{
+     "name": "rachi-plugins",
+     "owner": { "name": "Rachi" },
+     "plugins": [
+       {
+         "name": "ensemble",
+         "source": "./ensemble",
+         "description": "Multi-model AI orchestrator: relay one prompt across Claude, ChatGPT, Gemini, Grok, DeepSeek, Perplexity, Groq, and Mistral using your logged-in browser sessions. No API keys."
+       }
+     ]
+   }
